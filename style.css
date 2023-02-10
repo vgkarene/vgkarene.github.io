@@ -1,0 +1,87 @@
+/* Fichier CSS à personnaliser */
+
+body {
+      background-color: antiquewhite
+    }
+
+h1 {
+    text-align: center;
+    color: darkpink;
+  }
+
+h2 {
+    text-align: center;
+    color: pink;
+    background-color: antiquewhite;
+    border: solid pink;
+  }
+
+.souligne {
+    text-decoration: underline red;
+}
+
+#bloc1 {
+    border: 5px solid pink;
+    width: 25%;
+    background-color: white;
+    color: black;
+    padding:20px;
+    font-size: 120%;
+  }
+
+#texte {
+    font-size: 130%;
+  }
+
+#texte2 {
+    font-size: 110%;
+    text-align: center;
+  }
+    
+
+#monImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#FRENCH {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#BABYBOOMER {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#BLUSHNAIL {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#STARNAILS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#METALLICNAILS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+img {
+width : 250px;
+height : 250px;
+  }
+
+.recommander {
+    color: white;
+    background-color: black;
+    border: solid black;
+  }
